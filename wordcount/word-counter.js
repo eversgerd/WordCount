@@ -1,4 +1,3 @@
-
     let firstParagraph = document.querySelector("p");
 
     let text = firstParagraph.innerText;
